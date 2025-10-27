@@ -1,1 +1,30 @@
-
+{  
+    "destinations": [              
+        {
+      "id": 101,
+      "name": "Barcelona",
+      "description": "Ciudad costera y capital de Cataluña, conocida por la Sagrada Familia y el Parque Güell.",
+      "countryCode": "ES",
+      "type": "City",
+      "lastModif": "2024-05-20T10:30:00Z"
+    },
+    {
+      "id": 205,
+      "name": "Alpes Suizos",
+      "description": "Famosa cordillera con picos nevados, ideal para esquí y senderismo.",
+      "countryCode": "CH",
+      "type": "Mountain",
+      "lastModif": "2024-04-15T15:45:00Z"
+    },
+    {
+      "id": 350,
+      "name": "Tulum",
+      "description": "Destino de playa en la Riviera Maya con ruinas mayas frente al mar Caribe.",
+      "countryCode": "MX",
+      "type": "Beach",
+      "lastModif": "2024-05-22T08:00:00Z"
+    }
+],
+    "profile": {    
+        "name": "typicode"  
+    }}
