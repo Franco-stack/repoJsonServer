@@ -1,6 +1,6 @@
-{  
-    "users": [              
-        {
+{
+  "destinations": [
+    {
       "id": 101,
       "name": "Barcelona",
       "description": "Ciudad costera y capital de Cataluña, conocida por la Sagrada Familia y el Parque Güell.",
@@ -23,8 +23,9 @@
       "countryCode": "MX",
       "type": "Beach",
       "lastModif": "2024-05-22T08:00:00Z"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-],
-    "profile": {    
-        "name": "typicode"  
-    }}
